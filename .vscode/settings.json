@@ -4,5 +4,10 @@
   "deno.unstable": true,
   "deno.suggest.imports.hosts": {
     "https://deno.land": true
-  }
+  },
+  "cSpell.words": [
+    "deno",
+    "Deno",
+    "lume"
+  ]
 }
